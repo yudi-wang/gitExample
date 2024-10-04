@@ -1,2 +1,3 @@
-boss, wang3337, Yudi, Wang
-employee,yxu647,Xu,Yuchen
+role, NetID, LastName, FirstName
+boss, wang3337, Wang, Yudi
+employee, yxu647, Xu, Yuchen
